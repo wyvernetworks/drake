@@ -51,6 +51,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+drake_venv/
 
 # Django
 *.log
